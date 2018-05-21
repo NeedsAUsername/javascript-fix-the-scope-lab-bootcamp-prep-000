@@ -13,6 +13,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  n = 899
   const two = 2
   return n + two
 
