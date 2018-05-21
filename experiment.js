@@ -4,4 +4,4 @@ var funkyFunction = function() {
   }
 }
 
-funkyFunction()
+console.log(funkyFunction())
