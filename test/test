@@ -3,4 +3,4 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 
-funky
+funkyFunction()
