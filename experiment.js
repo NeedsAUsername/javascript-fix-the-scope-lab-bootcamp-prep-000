@@ -1,6 +1,6 @@
 var funkyFunction = function() {
-    return "FUNKY!"
+    console.log("FUNKY!")
   
 }
 
-console.log(funkyFunction)
+funkyFunction()
