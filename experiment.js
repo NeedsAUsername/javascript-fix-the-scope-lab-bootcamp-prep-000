@@ -3,5 +3,3 @@ var funkyFunction = function() {
   
 }
 
-var theFunk = funkyFunction()
-
